@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>customredirector</name>
+	<displayName><![CDATA[Custom Redirector]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[This module redirects based on specific entity ids into other ones]]></description>
+	<author><![CDATA[Binshops]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
